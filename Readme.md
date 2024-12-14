@@ -118,5 +118,17 @@ make clean
 - Performance may vary based on hardware capabilities
 - The asteroid field generation can be adjusted by modifying the spawn parameters in the code
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/3477885/aaaae3b3-d813-47c2-8a03-aa9f3916d511/main.cpp
+# Acknowledgments 🙏
+
+Special thanks to the following individuals who contributed to this project:
+
+## Mentor
+* **Dr. Mrinmoy Ghorai**
+
+## Contributors
+* **Piyush Singh**
+* **Srinath Krishnakumar** 
+* **Nokesh L**
+
+---
+Made with ❤️ by [Sundar R]
