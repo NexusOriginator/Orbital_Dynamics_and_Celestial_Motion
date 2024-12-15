@@ -131,4 +131,4 @@ Special thanks to the following individuals who contributed to this project:
 * **Nokesh L**
 
 ---
-Made with ❤️ by [Sundar R]
+Made with ❤️ by Sundar R
